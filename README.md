@@ -1,5 +1,5 @@
 # cachesim
-Program simulating cache used by MIPS operating system. To be run on terminal.
+Project showcase: program simulating cache used by MIPS operating system. To be run on terminal.
 
 Run parameters:
 ./csim  
